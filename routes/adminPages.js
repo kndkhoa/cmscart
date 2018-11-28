@@ -77,9 +77,7 @@ router.post('/add-page', (req, res) => {
             }
         });
     }
-    
 })
-
 
 //export
 module.exports = router
